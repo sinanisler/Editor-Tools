@@ -4,11 +4,12 @@ WordPress Editor Tools, Helpfull features for every WordPress site owner
 
 # Roadmap
 
-## Features
+## Core
 
 - register custom post types (full support)
 - register taxonomy (full support)
 - register custom image thumbnail size
+- register advance custom fields, meta fields
 
 
 ## UX
